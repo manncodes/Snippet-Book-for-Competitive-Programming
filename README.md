@@ -57,11 +57,16 @@ Edit the above to make changes in the containers.
 - Fast Modulo
 - Graph
 
-### Usage:
-1) Copy these two files in the path :
-**`C:\Users\<YourUserName>\AppData\Roaming\Code\User\snippets\`** folder.
-2) Reload VSCode
-3)To Check if the .json files are parsed, press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open Command Pallete and and type Snippet Configure, and if configured properly they will be shown in the list of suggested commands.
+### Usage: 
+
+1) Copy these two files in the path : 
+
+      **`C:\Users\<YourUserName>\AppData\Roaming\Code\User\snippets\`** folder. 
+
+2) Reload VSCode 
+
+3) To Check if the .json files are parsed, press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open Command Pallete and and type Snippet Configure, and if configured properly they will be shown in the list of suggested commands. 
+
 4) To use template code snippet it can be done anywhere just type cpp and the snippet suggestion would popup, if you want to use the DSA Code, you have to make a .cpp file to use them in it :) 
 
  
