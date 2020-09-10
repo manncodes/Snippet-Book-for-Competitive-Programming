@@ -1,2 +1,46 @@
 # Snippet-Book-for-Competitive-Programming (VSCode)
 3 keystrokes away from any DSA Code
+
+Snippets Included:
+- My template.cpp snippet which includes custom on create placeholder variables.
+- Permutation to Integer
+- Multinomial
+- Fenwick Tree
+- Fenwick Tree 2D
+- Hash Maps
+- Lazy Segment Tree
+- Line Container
+- Matrix 
+- Order Statistic Tree
+- RMQ (Ranged Minimum Queries)
+- Segment Tree
+- SubMatrix
+- Treap
+- Union Find
+- 2SAT Graph
+- Bellman Ford Algorithm
+- Biconnnected Components
+- Binary Lifting
+- Directed MST(Minimal Spanning Tree)
+- LCA(Leat Common Ancestor)
+- DFS Matching
+- Topological Sort
+- Strongly Connected Components
+- Continued Fractions
+- Euclids Algorithm
+- Sieve of Eratosthenes
+- Fractional Binary Search
+- Modular Inverse
+- Mod Log
+- Mod Mult
+- Mod Pow
+- Mod Sum
+- Mod Arithmetic
+- Fast fourier Transform
+- Hill Climbing
+- Determinant (Brute force)
+- KMP Pattern Matching
+- Suffix Array
+- Suffix Tree
+- Fast Modulo
+- Graph
